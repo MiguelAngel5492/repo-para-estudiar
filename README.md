@@ -1,4 +1,4 @@
-# repo-para-estudiar
+# practica 
 este es el que voy a usar para estudiar github
 
 ## descripción
